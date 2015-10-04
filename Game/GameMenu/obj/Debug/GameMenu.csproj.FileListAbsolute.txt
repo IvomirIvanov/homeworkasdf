@@ -20,3 +20,6 @@ C:\Users\User\Downloads\Game\GameMenu\obj\Debug\GameMenu.csproj.GenerateResource
 C:\Users\User\Downloads\Game\GameMenu\obj\Debug\GameMenu.CreditsForm.resources
 C:\Users\User\Downloads\Game\GameMenu\obj\Debug\GameMenu.GameOverMenu.resources
 C:\Users\User\Downloads\Game\GameMenu\obj\Debug\GameMenu.Form2.resources
+C:\Users\User\homeworkasdf\Game\GameMenu\bin\Debug\GameMenu.exe.config
+C:\Users\User\homeworkasdf\Game\GameMenu\obj\Debug\GameMenu.exe
+C:\Users\User\homeworkasdf\Game\GameMenu\obj\Debug\GameMenu.pdb
